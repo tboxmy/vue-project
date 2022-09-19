@@ -1,5 +1,9 @@
 # my-project
 
+Purpose: To introduce VUE components from a default VUE project created with the CLI.
+
+Author: Nicholas A Suppiah
+
 ## Project setup
 ```
 npm install
